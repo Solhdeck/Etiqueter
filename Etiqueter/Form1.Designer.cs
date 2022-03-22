@@ -483,6 +483,7 @@
             this.Controls.Add(this.Tb_Coment_0);
             this.Controls.Add(this.Gb_Config);
             this.Controls.Add(this.button1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Etiqueter";
             this.Text = "Etiqueter";
             this.Load += new System.EventHandler(this.Form1_Load);

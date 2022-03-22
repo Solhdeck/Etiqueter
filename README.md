@@ -9,3 +9,5 @@ Designer for labels for devices
 - Fixed a bug that didn't close the P-Touch editor if the version was not the right one.
 
 - Reformatted the language flags
+
+- Added application icon
